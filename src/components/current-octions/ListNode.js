@@ -1,5 +1,6 @@
 import React from 'react'
 import {Image, Button, Col, Row, Jumbotron} from 'react-bootstrap/lib/'
+import DeadlineTimer from './DeadlineTimer.js'
 
 
 
@@ -12,9 +13,7 @@ const ListNode = ({record}) => {
             <Image src={img} circle />
             <h2>{record.name}</h2>
             <p>{record.description}</p>
-            <p>
-                <span>&nbsp;remaining</span>
-            </p>
+            <DeadlineTimer  deadline={record.deadline} />
             <p className="retail-price-p">
                 <small>
                     Retail Price: {record.retail_price}

@@ -6,7 +6,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "retail_price": "HK2980.00",
       "auction_price": "HK$100.00",
-      "due_date": "2017-06-15"
+      "deadline": "2017-06-15 15:00:00"
     },
     {
       "id": "002",
@@ -14,7 +14,7 @@
       "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "retail_price": "HK3200.00",
       "auction_price": "HK$102.00",
-      "due_date": "2017-06-31"
+      "deadline": "2017-06-13 15:00:00"
     },
     {
       "id": "003",
@@ -22,7 +22,7 @@
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "retail_price": "HK700.00",
       "auction_price": "HK$40.00",
-      "due_date": "2017-06-21"
+      "deadline": "2017-06-13 15:00:00"
     },
     {
       "id": "004",
@@ -30,7 +30,7 @@
       "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "retail_price": "HK230.00",
       "auction_price": "HK$40.00",
-      "due_date": "2017-06-25"
+      "deadline": "2017-06-13 15:00:00"
     },
     {
       "id": "005",
@@ -38,7 +38,7 @@
       "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
       "retail_price": "HK1600.00",
       "auction_price": "HK$1000.00",
-      "due_date": "2017-06-28"
+      "deadline": "2017-06-13 15:00:00"
     }
   ],
   "count": 5
