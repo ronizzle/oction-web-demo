@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: #000;
   height: 150px;
   padding: 20px;
   color: white;
@@ -21,4 +21,28 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.img-parent-container {
+  float: left;
+}
+.img-parent-content {
+  float: right;
+}
+.img-node {
+  width: 242px;
+  height: 200px;
+}
+
+.current-octions-grid {
+  margin-top: 50px;
+}
+
+.retail-price-p {
+  color: rgba(16, 10, 24, 0.65);
+}
+
+.h1-header-items-in-auction {
+
+  color: rgba(16, 10, 24, 0.65);
 }
